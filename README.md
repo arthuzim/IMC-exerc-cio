@@ -1,1 +1,1 @@
-# IMC-exercicio
+# IMC
